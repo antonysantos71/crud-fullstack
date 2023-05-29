@@ -8,7 +8,7 @@ const FormContainer = styled.form`
   align-items: flex-end;
   gap: 10px;
   flex-wrap: wrap;
-  background-color: #fff;
+  background-color: #2bc9c880;
   padding: 20px;
   box-shadow: 0px 0px 5px #ccc;
   border-radius: 5px;
@@ -34,7 +34,7 @@ const Button = styled.button`
   cursor: pointer;
   border-radius: 5px;
   border: none;
-  background-color: #2c73d2;
+  background-color: #2990c1;
   color: white;
   height: 42px;
 `;
