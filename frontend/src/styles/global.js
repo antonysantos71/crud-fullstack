@@ -13,7 +13,8 @@ const Global = createGlobalStyle`
     height: 100vh;
     display: flex;
     justify-content: center;
-    background-color: #abe2e2;
+    background: url("https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&cs=tinysrgb&w=1600");
+    background-size: cover;
   }
 `;
 
